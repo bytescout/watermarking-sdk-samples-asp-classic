@@ -1,3 +1,3 @@
 ## Index of source code examples:
 
-\Add watermark to image
+\Add Watermark to Image
